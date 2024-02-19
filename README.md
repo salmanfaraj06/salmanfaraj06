@@ -10,7 +10,7 @@
 
 😄 Fun fact: I get along with people quickly and consider myself a good team player. 
 
-⚡ When I'm not coding, you'll find me immersed in music - my favorite hobby!
+⚡ When I'm not coding, you'll find me immersed in music , football.
 
 Looking forward to connecting and collaborating with you!
 
