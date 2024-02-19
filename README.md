@@ -1,6 +1,6 @@
 👋 Hi, I’m Salman Faraj (@salmanfaraj06)
 
-👀 I’m a frontend developer with a keen interest in UI/UX design and Java programming. I'm proficient in Python, Java, and ReactJS.
+👀 I’m interested in frontend development, UI/UX design and Java programming. I'm proficient in Python, Java, and ReactJS.
 
 🌱 I’m currently enhancing my skills in backend development with Node.js and advanced React concepts. I'm on a journey to master the MERN stack.
 
