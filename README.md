@@ -20,6 +20,4 @@ I enjoy moving between understanding the problem, building a practical solution,
 
 ## GitHub activity
 
-![](https://github-readme-stats.vercel.app/api?username=salmanfaraj06&theme=algolia&hide_border=true&show_icons=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=salmanfaraj06&theme=algolia&hide_border=true&layout=compact)
+Explore my [repositories](https://github.com/salmanfaraj06?tab=repositories) and [contributions](https://github.com/salmanfaraj06).
